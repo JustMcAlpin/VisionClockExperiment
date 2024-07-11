@@ -1,0 +1,74 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "1.0" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Initial release"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1回目のリリース"
+          }
+        }
+      }
+    },
+    "1.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- ADD option to show battery-level.\n- ADD option to adjust for setting button."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- バッテリー情報表示オプションの追加\n- 設定ボタンの表示方法変更オプションの追加"
+          }
+        }
+      }
+    },
+    "1.1.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- Fixed a bug that prevents the clock window from being reopened if it is closed while the settings window is displayed.\n- Fixed small bugs."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "・設定ウインドウを表示中に時計ウインドウを閉じると時計ウインドウを開けなくなるバグを修正\n・軽微なバグの修正"
+          }
+        }
+      }
+    },
+    "1.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add localization for few key words (Date text, Time text, \"Clock\", \"Setting\")"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いくつかの重要単語に対してローカライゼーションを追加\n(日付テキスト、時刻テキスト、\"時計\"、\"設定\")"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
